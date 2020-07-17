@@ -7,8 +7,9 @@ export const globalStyles = StyleSheet.create({
     },
     titleText: {
         fontFamily: 'nunito-bold',
-        fontSize: 18,
-        color: '#333'
+        fontSize: 16,
+        color: '#333',
+        flex: 1
     },
     paragraph: {
         marginVertical: 8,
@@ -27,6 +28,33 @@ export const globalStyles = StyleSheet.create({
         marginBottom: 10,
         marginTop: 6,
         textAlign: 'center'
+    },
+    homeCover: {
+        flex: 1,
+        maxWidth: 80,
+        maxHeight: 120
+    },
+    titleInfo: {
+        flex: 2,
+        marginLeft: 10
+    },
+    titleDate: {
+        flex: 10,
+        fontSize: 10,
+        color: 'gray'
+    },
+    console: {
+        flex: 1
+    },
+    heart: {
+        flexDirection: 'row'
+    },
+    heartText: {
+        fontSize: 12,
+        color: '#4480EB'
+    },
+    heartImage: {
+        marginHorizontal: 5
     }
 });
 
@@ -37,5 +65,13 @@ export const images = {
         '3': require('../assets/rating-3.png'),
         '4': require('../assets/rating-4.png'),
         '5': require('../assets/rating-5.png')
+    },
+    covers: {
+        '1': require('../assets/covers/zelda.jpg'),
+        '2': require('../assets/covers/mario.jpg'),
+        '3': require('../assets/covers/smash.jpg'),
+        '4': require('../assets/covers/animal.jpg'),
+        '5': require('../assets/covers/god.jpg'),
+        '6': require('../assets/covers/devil.jpeg'),
     }
 }

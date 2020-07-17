@@ -1,0 +1,44 @@
+{
+    "1": {
+        "reviews": [
+            { "key": "1", "user":  "떤놀", "review": "손바닥 만한 화면 속에서 찾은 진정한 자유", "rating": 5 },
+            { "key": "2", "user": "잇띳", "review": "달려라, 살아남아라, 지켜라", "rating": 5 },
+            { "key": "3", "user": "돼맹", "review": "최고의 게임", "rating": 5 }
+        ]
+    },
+    "2": {
+        "reviews": [
+            { "key": "1", "user":  "닻불", "review": "예전 작품과 최근 작품의 환상적인 조화", "rating": 5 },
+            { "key": "2", "user":  "뺙펄", "review": "직관적이지만 지루하지 않은 조작", "rating": 4 },
+            { "key": "3", "user":  "뚫익", "review": "게임 본연의 즐거움을 찾다", "rating": 4 }
+        ]
+    },
+    "3": {
+        "reviews": [
+            { "key": "1", "user":  "뀌믈", "review": "닌텐도의 종합선물세트와 같은 게임", "rating": 5 },
+            { "key": "2", "user":  "갔농", "review": "화려한 이펙트가 사이다를 마시는 듯한 느낌", "rating": 4 },
+            { "key": "3", "user":  "뻬껙", "review": "다양한 게임 모드, 그러나 멀티플레이는 아쉽", "rating": 3 }
+        ]
+    },
+    "4": {
+        "reviews": [
+            { "key": "1", "user":  "뀌믈", "review": "최고의 힐링 게임", "rating": 5 },
+            { "key": "2", "user":  "갔농", "review": "표현이 필요 없다", "rating": 5 },
+            { "key": "3", "user":  "뻬껙", "review": "하고 싶어도 못하는 게임ㅠㅠ", "rating": 5 }
+        ]
+    },
+    "5": {
+        "reviews": [
+            { "key": "1", "user":  "뀌믈", "review": "이 게임 때문에 플레이스테이션을 구매해도 안 아까움", "rating": 5 },
+            { "key": "2", "user":  "갔농", "review": "올해 최고의 액션게임", "rating": 5 },
+            { "key": "3", "user":  "뻬껙", "review": "스토리와 연출이 넘사", "rating": 4 }
+        ]
+    },
+    "6": {
+        "reviews": [
+            { "key": "1", "user":  "뀌믈", "review": "액션은 늘 좋지만 슬슬 지겹달까", "rating": 2 },
+            { "key": "2", "user":  "갔농", "review": "화려한 그래픽 그러나 아쉬운 게임 볼륨", "rating": 3 },
+            { "key": "3", "user":  "뻬껙", "review": "나쁘지 않다", "rating": 3 }
+        ]
+    }
+}

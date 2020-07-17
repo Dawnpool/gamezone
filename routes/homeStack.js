@@ -18,7 +18,7 @@ const screens = {
     ReviewDetails: {
         screen: ReviewDetails,
         navigationOptions: {
-            title: 'Review Details'
+            title: '유저 리뷰'
         }
     }
 }
